@@ -15,7 +15,7 @@ import javax.validation.constraints.Size;
 
 /**
  *
- * @author ahza0
+ * @author Fajar
  */
 @Entity
 @Table(name = "shippers")
