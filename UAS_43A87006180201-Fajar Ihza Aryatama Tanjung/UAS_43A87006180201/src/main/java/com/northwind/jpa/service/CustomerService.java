@@ -20,7 +20,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author ahza0
+ * @author Fajar
  */
 // CustomerService itu akan dipakai didalam Controller
 // Anotasi Service agar springboot melakukan scan untuk dimasukkan kedalam contex
