@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author User
+ * @author Fajar
  */
 @RestController
 @RequestMapping("/api/v1/users")
