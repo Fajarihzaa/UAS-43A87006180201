@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  *
- * @author User
+ * @author Fajar
  */
 // Repository harus pake interface
 public interface CategoriesRepository extends JpaRepository<Categories, Integer>{
