@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author ahza0
+ * @author Fajar
  */
 // RestController memberi tau springboot untuk menajalankan class CustomerController 
 @RestController
