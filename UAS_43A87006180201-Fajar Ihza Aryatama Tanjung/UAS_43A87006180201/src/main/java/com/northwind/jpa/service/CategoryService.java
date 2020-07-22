@@ -20,7 +20,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author User
+ * @author Fajar
  */
 @Service
 public class CategoryService implements RepoService<Categories>{
