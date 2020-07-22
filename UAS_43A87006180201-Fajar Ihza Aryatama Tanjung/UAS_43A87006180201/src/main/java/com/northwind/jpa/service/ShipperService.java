@@ -15,7 +15,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author ahza0
+ * @author Fajar
  */
 @Service
 public class ShipperService implements RepoService<Shippers>{
