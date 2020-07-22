@@ -15,7 +15,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 /**
  *
- * @author ahza0
+ * @author Fajar
  */
 // Anotasi Configuration sebagai class yang akan di scann untuk menjalankan konfigurasi
 @Configuration
