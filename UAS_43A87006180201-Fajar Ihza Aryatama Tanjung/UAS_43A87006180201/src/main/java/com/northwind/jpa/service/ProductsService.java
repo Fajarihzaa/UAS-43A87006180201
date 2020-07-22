@@ -18,7 +18,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author User
+ * @author Fajar
  */
 @Service
 public class ProductsService implements RepoService<Products>{
