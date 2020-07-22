@@ -17,7 +17,7 @@ import javax.validation.constraints.Max;
 
 /**
  *
- * @author User
+ * @author Fajar
  */
 @Entity
 @Table(name = "users")
