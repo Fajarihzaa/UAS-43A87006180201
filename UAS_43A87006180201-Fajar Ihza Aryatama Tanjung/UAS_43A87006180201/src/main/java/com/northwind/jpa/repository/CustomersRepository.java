@@ -14,7 +14,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author Rizukiwahyudi
+ * @author Fajar
  */
 @Repository
 public interface CustomersRepository extends JpaRepository<Customers, String>{    
