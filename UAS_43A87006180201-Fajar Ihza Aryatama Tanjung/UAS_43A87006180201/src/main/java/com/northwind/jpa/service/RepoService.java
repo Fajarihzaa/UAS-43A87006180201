@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author ahza0
+ * @author Fajar
  */
 // Ini adalah abstrak method, karena didalam interface
 public interface RepoService <T>{
