@@ -13,7 +13,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author User
+ * @author Fajar
  */
 @Repository
 public interface UsersRepository extends JpaRepository<Users, Integer>{
